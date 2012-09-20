@@ -4,6 +4,7 @@ yeoman-grunt-sample
 Super simple example project with yeoman, grunt, and coffeescript
 
 To try it out:
+
 1. Fork me
 
 2. install yeoman
