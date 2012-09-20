@@ -1,0 +1,10 @@
+/* Will be compiled down to a single stylesheet with your sass files */
+div {
+    height:10px;
+    background-color:#0000FF;
+    float:left;
+    color:#FFFFFF;
+    margin:5px;
+    text-align:center;
+    padding:0 5px 0 5px;
+}
