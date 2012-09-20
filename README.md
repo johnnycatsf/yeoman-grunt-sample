@@ -16,8 +16,8 @@ curl -L get.yeoman.io | bash
 ```bash
 yeoman build
 ```
-Gose to `dist`
-7. Live build with minification
+Goes to `dist`
+7. Live build with minification  
 ```bash
 yeoman build:minify
 ```
